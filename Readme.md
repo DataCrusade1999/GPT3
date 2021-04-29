@@ -1,4 +1,4 @@
-# GPT3
+# [GPT3](https://en.wikipedia.org/wiki/GPT-3)
 
 Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series (and the successor to GPT-2) created by OpenAI, a San Francisco-based artificial intelligence research laboratory. GPT-3's full version has a capacity of 175 billion machine learning parameters.
 
