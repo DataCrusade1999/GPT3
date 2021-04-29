@@ -1,0 +1,5 @@
+Query = What is the state of Indian Politics?
+
+>>>The current state of Indian political parties is weak. The Indian political system is made up of the four leading national parties. 
+Some say only the Communist Party of India Shining is truly popular with few followers. The CPI and the CPI-M are banned.
+What is more, the left-wing extremist parties are gaining a great deal of support. This year has seen plenty of violent crimes by these extremist parties.
